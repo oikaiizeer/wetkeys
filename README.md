@@ -1,5 +1,5 @@
 # Droplocked - VetKey Encrypted File Storage
-
+class Main { public static void main(String[] args) { System.out.println("Forked Java!"); } }
 Welcome to **Droplocked**, a secure, decentralized file storage system built on the Internet Computer with vetKey encryption. This project provides end-to-end encrypted file storage where encryption is completely invisible to users.
 
 ## Features
